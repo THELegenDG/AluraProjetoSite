@@ -16,6 +16,4 @@
 
 ### Diego
 
-### Linkedin: https://www.linkedin.com/in/diego-gomes-9a4680255/
-
 ```
